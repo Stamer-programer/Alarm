@@ -13,5 +13,5 @@ while seconds:
   
 playsound('Your file.wav')
 
-print('playing sound using  playsound')
+
 print("00")  
