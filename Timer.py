@@ -11,7 +11,7 @@ while seconds:
     time.sleep(1)
     seconds -= 1
   
-playsound('C:/Users/User/Music/acoustic-guitar-loop-f-91bpm-132687.wav')
+playsound('Your file.wav')
 
 print('playing sound using  playsound')
 print("00")  
